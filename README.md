@@ -48,6 +48,7 @@ Supports full CRUD operations for tasks, ideal as a backend starting point for w
   "dueDate": "2024-12-01",
   "status": "in progress"
 }
+```
 
 ## License
 MIT (or specify your choice)
