@@ -1,0 +1,30 @@
+/build/
+/.gradle/
+/out/
+/.idea/
+/.vscode/
+*.iml
+*.iws
+*.ipr
+*.class
+*.log
+.DS_Store
+.env
+*.swp
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
